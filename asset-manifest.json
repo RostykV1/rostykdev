@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8595ee38.css",
-    "main.js": "/portfolio/static/js/main.64b90f22.js",
-    "static/media/noise.gif": "/portfolio/static/media/noise.93fe26ae97a4df3d4e67.gif",
-    "static/media/IMG_3683.png": "/portfolio/static/media/IMG_3683.8187f3d4b82115a8b894.png",
-    "static/media/IMG_3684.png": "/portfolio/static/media/IMG_3684.16f73e43d78e3c7efb6b.png",
-    "static/media/IMG_3682.png": "/portfolio/static/media/IMG_3682.fdc10be7eece6647c4f9.png",
-    "static/media/stand.ttf": "/portfolio/static/media/stand.fea2aee365432b45f5b9.ttf",
-    "index.html": "/portfolio/index.html",
-    "main.8595ee38.css.map": "/portfolio/static/css/main.8595ee38.css.map",
-    "main.64b90f22.js.map": "/portfolio/static/js/main.64b90f22.js.map"
+    "main.css": "/rostykdev/static/css/main.3883531d.css",
+    "main.js": "/rostykdev/static/js/main.64b90f22.js",
+    "static/media/noise.gif": "/rostykdev/static/media/noise.93fe26ae97a4df3d4e67.gif",
+    "static/media/IMG_3683.png": "/rostykdev/static/media/IMG_3683.8187f3d4b82115a8b894.png",
+    "static/media/IMG_3684.png": "/rostykdev/static/media/IMG_3684.16f73e43d78e3c7efb6b.png",
+    "static/media/IMG_3682.png": "/rostykdev/static/media/IMG_3682.fdc10be7eece6647c4f9.png",
+    "static/media/stand.ttf": "/rostykdev/static/media/stand.fea2aee365432b45f5b9.ttf",
+    "index.html": "/rostykdev/index.html",
+    "main.3883531d.css.map": "/rostykdev/static/css/main.3883531d.css.map",
+    "main.64b90f22.js.map": "/rostykdev/static/js/main.64b90f22.js.map"
   },
   "entrypoints": [
-    "static/css/main.8595ee38.css",
+    "static/css/main.3883531d.css",
     "static/js/main.64b90f22.js"
   ]
 }
