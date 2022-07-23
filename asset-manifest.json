@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rostykdev/static/css/main.3883531d.css",
-    "main.js": "/rostykdev/static/js/main.64b90f22.js",
+    "main.js": "/rostykdev/static/js/main.91ece54f.js",
     "static/media/noise.gif": "/rostykdev/static/media/noise.93fe26ae97a4df3d4e67.gif",
     "static/media/IMG_3683.png": "/rostykdev/static/media/IMG_3683.8187f3d4b82115a8b894.png",
     "static/media/IMG_3684.png": "/rostykdev/static/media/IMG_3684.16f73e43d78e3c7efb6b.png",
@@ -9,10 +9,10 @@
     "static/media/stand.ttf": "/rostykdev/static/media/stand.fea2aee365432b45f5b9.ttf",
     "index.html": "/rostykdev/index.html",
     "main.3883531d.css.map": "/rostykdev/static/css/main.3883531d.css.map",
-    "main.64b90f22.js.map": "/rostykdev/static/js/main.64b90f22.js.map"
+    "main.91ece54f.js.map": "/rostykdev/static/js/main.91ece54f.js.map"
   },
   "entrypoints": [
     "static/css/main.3883531d.css",
-    "static/js/main.64b90f22.js"
+    "static/js/main.91ece54f.js"
   ]
 }
