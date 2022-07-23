@@ -1,0 +1,84 @@
+@font-face {
+    font-family: stand;
+    src: url(./stand.ttf);
+}
+
+.NavAll{
+    position: absolute;
+    font-family: stand;
+    padding-right: 10px;
+    right: 0px;
+    text-align: right;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .NavUl{
+        list-style: none;
+        font-size: 40px;
+
+
+        .NavLi{
+            color: #FFFFFF;
+            text-decoration: none;
+
+
+            .NavLink{
+                color: #FFFFFF;
+                text-decoration: none;
+                transition: 0.8s;
+            }
+
+            .NavLink:hover{
+                color: #BFC0C0;
+                transition: 0.8s;
+                letter-spacing: 5px;
+            }
+
+            .NavLinkActive{
+                color: #EF8354;
+            }
+        }
+    }
+
+    .NavAll_mob{
+        position: absolute;
+        font-family: stand;
+        padding-right: 10px;
+        right: 0px;
+        text-align: right;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .NavUL_mob{
+            list-style: none;
+            font-size: 20px;
+         
+            
+            .NavLi{
+                color: #FFFFFF;
+                text-decoration: none;
+    
+    
+                .NavLink{
+                    color: #FFFFFF;
+                    text-decoration: none;
+                    transition: 0.8s;
+                }
+    
+                .NavLink:hover{
+                    color: #BFC0C0;
+                    transition: 0.8s;
+                    letter-spacing: 5px;
+                }
+    
+                .NavLinkActive{
+                    color: #EF8354;
+                }
+            }
+        }
+    }
+}
